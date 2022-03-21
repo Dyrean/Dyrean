@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="wave">, I'm Fatih Canbey</h1>
 <div align="left">
   
-  <a href="https://app.daily.dev/get?r=Dyrean" target="_blank">
+  <a href="https://app.daily.dev/Dyrean" target="_blank">
     <img
       width="256"
       align="right"
@@ -12,7 +12,7 @@
 ### 💫 About Me :
 <p>🔭 I'm currently working on a React Native side project.</p>
 <p>🌱 I’m currently learning NextJS, React Native.</p>
-<p>📧 Mail me at <a href="mailto:fcanbeyy@gmail.com" title="email">fcanbeyy@gmail.com</a>.</p>
+<p>📧 Mail me at <a href="mailto:fcanbeyy@gmail.com" target="_blank" title="email">fcanbeyy@gmail.com</a>.</p>
 <p>☀️ Check out my <a href="https:\\canbey.dev" target="_blank" rel="noopener" title="portfolio">portfolio</a>.</p>
 
 <p>✒️ Check out my blogs on <a href="https:\\blog.canbey.dev" rel="noopener" target="_blank" title="blog">Hashnode</a>.</p>
