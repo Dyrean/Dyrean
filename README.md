@@ -11,7 +11,7 @@
   
 ### 💫 About Me :
 <p>🔭 I'm currently working on a SvelteKit and Go side project.</p>
-<p>🌱 I’m currently learning Go, Svelte-SvelteKit.</p>
+<p>🌱 I’m currently learning Go, Svelte-SvelteKit and Vue-Nuxt</p>
 <p>📧 Mail me at <a href="mailto:fcanbeyy@gmail.com" target="_blank" title="email">fcanbeyy@gmail.com</a>.</p>
 <p>☀️ Check out my <a href="https:\\canbey.dev" target="_blank" rel="noopener" title="portfolio">portfolio</a>.</p>
 
