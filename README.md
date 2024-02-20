@@ -1,13 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="wave">, I'm Fatih Canbey</h1>
 <div align="left">
   
-  <a href="https://app.daily.dev/Dyrean" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/623a756405b84e6fa5282a3f09229f6d.png?r=nwo"
-    />
-  </a>
+  <a href="https://app.daily.dev/dyrean"><img src="https://api.daily.dev/devcards/v2/wDphVj55a3RAQlNbQTboe.png?r=ap8&type=default" width="356" alt="Fatih Canbey's Dev Card"/></a>
   
 ### 💫 About Me :
 <p>🔭 I'm currently working on a SvelteKit and Go side project.</p>
