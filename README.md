@@ -15,7 +15,7 @@ Hello 👋, I'm an accomplished Software Engineer who excels in designing and de
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dyrean&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dyrean/Dyrean/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dyrean&icon=0&color=1)](https://visitcount.itsvg.in)
