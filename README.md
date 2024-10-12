@@ -9,7 +9,6 @@
 <p>📧 Mail me at <a href="mailto:fcanbeyy@gmail.com" target="_blank" title="email">fcanbeyy@gmail.com</a>.</p>
 <p>☀️ Check out my <a href="https:\\canbey.dev" target="_blank" rel="noopener" title="portfolio">portfolio</a>.</p>
 
-<p>✒️ Check out my blogs on <a href="https:\\blog.canbey.dev" rel="noopener" target="_blank" title="blog">Hashnode</a>. (There is no blog yet 😒)</p>
  </div>
 
 ---
