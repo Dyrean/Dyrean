@@ -8,3 +8,7 @@ Hello 👋, I'm an accomplished Software Engineer who excels in designing and de
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dyrean&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://count.getloli.com/@Dyrean?name=Dyrean&theme=booru-twifanartsfw&darkmode=auto">
+</div>
