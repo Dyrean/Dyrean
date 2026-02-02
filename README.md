@@ -6,9 +6,6 @@ Hello 👋, I'm an accomplished Software Engineer who excels in designing and de
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyrean&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dyrean&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <div align="center">
   <img src="https://count.getloli.com/@Dyrean?name=Dyrean&theme=booru-twifanartsfw&darkmode=auto">
 </div>
